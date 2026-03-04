@@ -1,23 +1,16 @@
-🐦 Flappy Bird V2 (C# WinForms Edition)
-A classic Flappy Bird clone built using C# and Windows Forms. This version is designed to be fast-paced, challenging, and smooth, featuring a randomized obstacle system.
+🚀 Neon Nebula: Deep Space Dash (C# WinForms)
+An adrenaline-fueled, infinite space-flyer built on the C# WinForms framework. Navigate your starship through a dense asteroid field in this fast-paced test of reflexes and timing.
 
 🎮 Controls
-🖱️ Left Mouse Click: Jump to stay in the air and avoid pipes.
+⌨️ Spacebar / 🖱️ Left Click: Fire thrusters to ascend and counteract gravitational pull.
 
-⌨️ R Key: Instantly restart the game after a "GAME OVER".
+⌨️ Enter Key: Quickly jump back into the cockpit and restart after a crash.
 
 ✨ Key Features
-Randomized Obstacles: Pipes generate at different heights every time, ensuring a unique challenge in every run.
+Procedural Asteroid Fields: Obstacles are generated with variable spacing and heights, ensuring no two flights through the nebula are the same.
 
-Dynamic Scoring: A real-time score counter that tracks your progress as you pass each pipe.
+Scaling Difficulty: The game speed incrementally increases as your score climbs, pushing your reaction times to the limit.
 
-Optimized Physics: Fine-tuned gravity and jump force for a responsive, high-speed gameplay experience.
+Velocity-Based Physics: Smooth acceleration and deceleration curves provide a "weighty" feel to the ship’s movement, moving beyond simple linear jumps.
 
-Clean Visuals: Transparency fixes applied to all sprites to ensure a seamless look over the game environment.
-
-🚀 How to Run
-Clone or download this repository.
-
-Open the FlappyBird_V2.sln or .csproj file in Visual Studio.
-
-Press F5 to build and run the project.
+GDI+ Optimized Graphics: Utilizes double-buffering and transparency masking to eliminate flicker and provide a crisp, retro-arcade aesthetic.
